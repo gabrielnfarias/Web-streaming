@@ -1,6 +1,8 @@
 
 Welcome to my React project! This is a step-by-step guide to setting up and running the project locally.
-![Opera Instantâneo_2023-08-15_235801_localhost](https://github.com/gabrielnfarias/Web-streaming/assets/105251567/9059cb01-b12e-450b-9da8-586a00ef00ca)
+
+![image](https://github.com/gabrielnfarias/Web-streaming/assets/105251567/71819d1e-570f-4ef1-8c00-24436a57c929)
+
 </img>
 
 ## Running the Project Locally
