@@ -31,6 +31,7 @@ function App() {
     if (theme === 'light') {
       setTheme('dark');
       document.body.classList.add('dark-theme');
+    } else {
       setTheme('light');
       document.body.classList.remove('dark-theme');
     }
