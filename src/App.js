@@ -1,4 +1,5 @@
 import logoDark from './assets/logo-dark.png';
+import logoNew from './assets/Opera_Instantâneo_2023-08-16_120308_www.canva.com-removebg-preview.png';
 import { ReactComponent as LightMode } from './assets/light-mode.svg';
 import { ReactComponent as ArrowLeftDark } from './assets/arrow-left-dark.svg';
 import { ReactComponent as ArrowRightDark } from './assets/arrow-right-dark.svg';
@@ -65,8 +66,8 @@ function App() {
     <>
       <header className={`header size ${theme === 'dark' ? 'dark-theme' : ''}`}>
         <div className="header__container-logo">
-          <img src={logoDark} alt="Logo" />
-          <h1 className="header__title">CUBOS FLIX</h1>
+          <img src={logoNew} alt="Logo" />
+          <h1 className="header__title">CineViewX</h1>
         </div>
         <div className="header__container-right">
           <input
